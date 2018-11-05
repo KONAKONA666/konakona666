@@ -2,10 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Yelshat Duskaliev</title>
-        <meta name="description" content="Home page of YD's business card site">
+        <title>Bekbayev Aibek</title>
+        <meta name="description" content="konakona666">
         <meta name="author" content="Yelshat Duskaliev">
-        style{
+        <style>
         @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 header {
@@ -331,6 +331,7 @@ footer {
 }
 
         }
+        </style>
         <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
     </head>
     <body id="index">
